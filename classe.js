@@ -26,14 +26,14 @@ export const classe = [
     {
         nom: "Leroy",
         notes: [],
-        retards: 0,
+        retards: '0',
         rattrapagesValides: false
     },
     {
         nom: " Bernard",
         notes: [7, 8, 9],
         retards: 1,
-        rattrapagesValides: true
+        rattrapagesValides: 'vrai'
     },
     {
         nom: "Petit",
